@@ -1,6 +1,7 @@
 # Student-Data-Software
 This is a normal Python Graphical User Interface (GUI) , That takes user inputs and then returns a CSV file with all the details given. 
 Modules & Techniques used:
+
 1.CSV
 2.TKinter
 
